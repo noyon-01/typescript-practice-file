@@ -1,6 +1,8 @@
-function greet(name: string): string {
-  return `Hellow ${name}, Welcome to TypeScript Learning Journey!`;
-}
+//! 1st Class Example Code !//
 
-const userName: string = "Noyon";
-console.log(greet(userName));
+// function greet(name: string): string {
+//   return `Hello ${name}, Welcome to TypeScript Learning Journey!`;
+// }
+
+// const userName: string = "Noyon";
+// console.log(greet(userName));
