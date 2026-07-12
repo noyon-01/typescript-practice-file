@@ -12,11 +12,12 @@ airliensSeat = "window";
 console.log(airliensSeat);
 
 const orders = ["23", "64", "34", "52"];
+let currentOrder: any;
 
 for (let order of orders) {
-  if (order === "34") {
-    let currentOrder: string | undefined | boolean;
+  if (order === "64") {
     currentOrder = order;
-    console.log(currentOrder);
   }
 }
+
+console.log(currentOrder);
