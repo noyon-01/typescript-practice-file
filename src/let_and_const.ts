@@ -17,3 +17,14 @@
 
 // const phoneBrand: string = "xiaomi";
 // console.log(`my readmi phone brand name is always: ${phoneBrand}`);
+
+// let mySalary: number = 15000;
+// console.log(`now my salary: ${mySalary}`);
+
+// mySalary = mySalary + 25000;
+// console.log(`two years leter my salary: ${mySalary}`);
+
+// const tex: number = 0.05;
+// const totaltex: number = mySalary * tex;
+// const finalSalary = mySalary - totaltex;
+// console.log(`my salary after pay tex: ${finalSalary}`);
