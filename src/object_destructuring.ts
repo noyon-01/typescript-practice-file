@@ -75,3 +75,25 @@
 // console.log(myname);
 // console.log(email);
 // console.log(boyos);
+
+// const userInformation = ({
+//   name,
+//   age,
+//   city = "chattogram",
+// }: IUserInformation): string => {
+//   return `my name is ${name}, I am ${age} years old and I live is ${city} city.`;
+// };
+
+// interface IUserInformation {
+//   name: string;
+//   age: number;
+//   city?: string;
+// }
+
+// const myInformation: IUserInformation = {
+//   name: "halim",
+//   age: 30,
+// };
+
+// const mechine = userInformation(myInformation);
+// console.log(mechine);
