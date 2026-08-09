@@ -7,5 +7,3 @@ function getFirstItem<T>(items: T[]): T {
 
 console.log(getFirstItem(numbers));
 console.log(getFirstItem(fruits));
-
-
